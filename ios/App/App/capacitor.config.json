@@ -1,0 +1,6 @@
+{
+	"appId": "org.quesers.www",
+	"appName": "ios-guru",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
